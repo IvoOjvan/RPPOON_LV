@@ -1,0 +1,13 @@
+E:\RPPOON\LV2\LV2\bin\Debug\netcoreapp3.1\LV2.exe
+E:\RPPOON\LV2\LV2\bin\Debug\netcoreapp3.1\LV2.deps.json
+E:\RPPOON\LV2\LV2\bin\Debug\netcoreapp3.1\LV2.runtimeconfig.json
+E:\RPPOON\LV2\LV2\bin\Debug\netcoreapp3.1\LV2.runtimeconfig.dev.json
+E:\RPPOON\LV2\LV2\bin\Debug\netcoreapp3.1\LV2.dll
+E:\RPPOON\LV2\LV2\bin\Debug\netcoreapp3.1\LV2.pdb
+E:\RPPOON\LV2\LV2\obj\Debug\netcoreapp3.1\LV2.csprojAssemblyReference.cache
+E:\RPPOON\LV2\LV2\obj\Debug\netcoreapp3.1\LV2.AssemblyInfoInputs.cache
+E:\RPPOON\LV2\LV2\obj\Debug\netcoreapp3.1\LV2.AssemblyInfo.cs
+E:\RPPOON\LV2\LV2\obj\Debug\netcoreapp3.1\LV2.csproj.CoreCompileInputs.cache
+E:\RPPOON\LV2\LV2\obj\Debug\netcoreapp3.1\LV2.dll
+E:\RPPOON\LV2\LV2\obj\Debug\netcoreapp3.1\LV2.pdb
+E:\RPPOON\LV2\LV2\obj\Debug\netcoreapp3.1\LV2.genruntimeconfig.cache
