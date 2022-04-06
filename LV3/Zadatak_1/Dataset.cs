@@ -18,6 +18,22 @@ namespace Zadatak_1
             this.LoadDataFromCSV(filePath);
         }
 
+        private Dataset(Dataset dataset) 
+        {
+            List<List<string>> deepCopyList = new List<List<string>>();
+            foreach (List<string> list in dataset.data)
+            {
+                List<string> innerList = new List<string>();
+                foreach (string row in list)
+                {
+                    innerList.Add(row);
+                }
+                deepCopyList.Add(innerList);
+            }
+
+            this.data = deepCopyList;
+        }
+
         //... code missing
         private void LoadDataFromCSV(string filePath) 
         {
@@ -40,20 +56,7 @@ namespace Zadatak_1
 
         public Prototype Clone()
         {
-            List<List<string>> deepCopyList = new List<List<string>>();
-            foreach(List<string> list in data) 
-            {
-                List<string> innerList = new List<string>(); 
-                foreach(string row in list) 
-                {
-                    innerList.Add(row);
-                }
-                deepCopyList.Add(innerList);
-            }
-            Dataset dataset = new Dataset();
-            dataset.data = deepCopyList;
-            return dataset;
-
+            return new Dataset(this);
         }
 
         public override string ToString()
