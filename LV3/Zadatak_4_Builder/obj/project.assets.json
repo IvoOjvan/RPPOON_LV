@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\RPPOON\\LV3\\Zadatak_4_Builder\\Zadatak_4_Builder.csproj",
+      "projectUniqueName": "E:\\RPPOON\\Git_LV\\RPPOON_LV\\LV3\\Zadatak_4_Builder\\Zadatak_4_Builder.csproj",
       "projectName": "Zadatak_4_Builder",
-      "projectPath": "E:\\RPPOON\\LV3\\Zadatak_4_Builder\\Zadatak_4_Builder.csproj",
+      "projectPath": "E:\\RPPOON\\Git_LV\\RPPOON_LV\\LV3\\Zadatak_4_Builder\\Zadatak_4_Builder.csproj",
       "packagesPath": "C:\\Users\\Ivo\\.nuget\\packages\\",
-      "outputPath": "E:\\RPPOON\\LV3\\Zadatak_4_Builder\\obj\\",
+      "outputPath": "E:\\RPPOON\\Git_LV\\RPPOON_LV\\LV3\\Zadatak_4_Builder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -28,5 +28,10 @@ namespace Zadatak_4_Builder
         {
             return (Prototype)this.MemberwiseClone();
         }
+
+        public override string ToString()
+        {
+            return $"Author: {Author}\nTitle: {Title}\nText: {Text}\nTime: {Timestamp}\nLevel: {Level}";
+        }
     }
 }

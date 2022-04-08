@@ -6,20 +6,42 @@ namespace Zadatak_4_Builder
 {
     class NotificationDirector
     {
+        private NotificationManager builder;
 
-        public ConsoleNotification CreateInfoNotification(string author) 
+
+        public NotificationDirector(NotificationManager builder) 
         {
-            return new ConsoleNotification(author, "", "",DateTime.Now, Category.INFO, ConsoleColor.White);
+            this.builder = builder;
         }
 
-        public ConsoleNotification CreateAlertNotification(string author) 
+        public void CreateInfoNotification(string author) 
         {
-            return new ConsoleNotification(author, "", "", DateTime.Now, Category.ALERT, ConsoleColor.Yellow);
+            builder.SetAuthor(author)
+                .SetTitle("Default info title")
+                .SetText("Default title")
+                .SetTime(DateTime.Now)
+                .SetLevel(Category.INFO)
+                .SetColor(ConsoleColor.White);
         }
 
-        public ConsoleNotification CreateErrorNotification(string author) 
+        public void CreateAlertNotification(string author) 
         {
-            return new ConsoleNotification(author, "", "", DateTime.Now, Category.ERROR, ConsoleColor.Red);
+            builder.SetAuthor(author)
+                .SetTitle("Default alert title")
+                .SetText("Default title")
+                .SetTime(DateTime.Now)
+                .SetLevel(Category.ALERT)
+                .SetColor(ConsoleColor.Yellow);
+        }
+
+        public void CreateErrorNotification(string author) 
+        {
+            builder.SetAuthor(author)
+                .SetTitle("Default error title")
+                .SetText("Default title")
+                .SetTime(DateTime.Now)
+                .SetLevel(Category.ERROR)
+                .SetColor(ConsoleColor.Red);
         }
     }
 }

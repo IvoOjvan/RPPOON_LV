@@ -11,3 +11,16 @@ E:\RPPOON\LV3\Zadatak_4_Builder\obj\Debug\netcoreapp3.1\Zadatak_4_Builder.csproj
 E:\RPPOON\LV3\Zadatak_4_Builder\obj\Debug\netcoreapp3.1\Zadatak_4_Builder.dll
 E:\RPPOON\LV3\Zadatak_4_Builder\obj\Debug\netcoreapp3.1\Zadatak_4_Builder.pdb
 E:\RPPOON\LV3\Zadatak_4_Builder\obj\Debug\netcoreapp3.1\Zadatak_4_Builder.genruntimeconfig.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV3\Zadatak_4_Builder\bin\Debug\netcoreapp3.1\Zadatak_4_Builder.exe
+E:\RPPOON\Git_LV\RPPOON_LV\LV3\Zadatak_4_Builder\bin\Debug\netcoreapp3.1\Zadatak_4_Builder.deps.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV3\Zadatak_4_Builder\bin\Debug\netcoreapp3.1\Zadatak_4_Builder.runtimeconfig.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV3\Zadatak_4_Builder\bin\Debug\netcoreapp3.1\Zadatak_4_Builder.runtimeconfig.dev.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV3\Zadatak_4_Builder\bin\Debug\netcoreapp3.1\Zadatak_4_Builder.dll
+E:\RPPOON\Git_LV\RPPOON_LV\LV3\Zadatak_4_Builder\bin\Debug\netcoreapp3.1\Zadatak_4_Builder.pdb
+E:\RPPOON\Git_LV\RPPOON_LV\LV3\Zadatak_4_Builder\obj\Debug\netcoreapp3.1\Zadatak_4_Builder.csprojAssemblyReference.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV3\Zadatak_4_Builder\obj\Debug\netcoreapp3.1\Zadatak_4_Builder.AssemblyInfoInputs.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV3\Zadatak_4_Builder\obj\Debug\netcoreapp3.1\Zadatak_4_Builder.AssemblyInfo.cs
+E:\RPPOON\Git_LV\RPPOON_LV\LV3\Zadatak_4_Builder\obj\Debug\netcoreapp3.1\Zadatak_4_Builder.csproj.CoreCompileInputs.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV3\Zadatak_4_Builder\obj\Debug\netcoreapp3.1\Zadatak_4_Builder.dll
+E:\RPPOON\Git_LV\RPPOON_LV\LV3\Zadatak_4_Builder\obj\Debug\netcoreapp3.1\Zadatak_4_Builder.pdb
+E:\RPPOON\Git_LV\RPPOON_LV\LV3\Zadatak_4_Builder\obj\Debug\netcoreapp3.1\Zadatak_4_Builder.genruntimeconfig.cache
