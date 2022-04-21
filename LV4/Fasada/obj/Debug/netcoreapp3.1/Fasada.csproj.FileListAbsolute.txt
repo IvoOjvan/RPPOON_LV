@@ -1,0 +1,13 @@
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Fasada\bin\Debug\netcoreapp3.1\Fasada.exe
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Fasada\bin\Debug\netcoreapp3.1\Fasada.deps.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Fasada\bin\Debug\netcoreapp3.1\Fasada.runtimeconfig.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Fasada\bin\Debug\netcoreapp3.1\Fasada.runtimeconfig.dev.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Fasada\bin\Debug\netcoreapp3.1\Fasada.dll
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Fasada\bin\Debug\netcoreapp3.1\Fasada.pdb
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Fasada\obj\Debug\netcoreapp3.1\Fasada.csprojAssemblyReference.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Fasada\obj\Debug\netcoreapp3.1\Fasada.AssemblyInfoInputs.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Fasada\obj\Debug\netcoreapp3.1\Fasada.AssemblyInfo.cs
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Fasada\obj\Debug\netcoreapp3.1\Fasada.csproj.CoreCompileInputs.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Fasada\obj\Debug\netcoreapp3.1\Fasada.dll
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Fasada\obj\Debug\netcoreapp3.1\Fasada.pdb
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Fasada\obj\Debug\netcoreapp3.1\Fasada.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Dekorater\bin\Debug\netcoreapp3.1\Dekorater.exe
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Dekorater\bin\Debug\netcoreapp3.1\Dekorater.deps.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Dekorater\bin\Debug\netcoreapp3.1\Dekorater.runtimeconfig.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Dekorater\bin\Debug\netcoreapp3.1\Dekorater.runtimeconfig.dev.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Dekorater\bin\Debug\netcoreapp3.1\Dekorater.dll
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Dekorater\bin\Debug\netcoreapp3.1\Dekorater.pdb
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Dekorater\obj\Debug\netcoreapp3.1\Dekorater.csprojAssemblyReference.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Dekorater\obj\Debug\netcoreapp3.1\Dekorater.AssemblyInfoInputs.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Dekorater\obj\Debug\netcoreapp3.1\Dekorater.AssemblyInfo.cs
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Dekorater\obj\Debug\netcoreapp3.1\Dekorater.csproj.CoreCompileInputs.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Dekorater\obj\Debug\netcoreapp3.1\Dekorater.dll
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Dekorater\obj\Debug\netcoreapp3.1\Dekorater.pdb
+E:\RPPOON\Git_LV\RPPOON_LV\LV4\Dekorater\obj\Debug\netcoreapp3.1\Dekorater.genruntimeconfig.cache
