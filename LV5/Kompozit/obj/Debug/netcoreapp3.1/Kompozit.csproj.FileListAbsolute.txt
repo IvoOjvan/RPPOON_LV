@@ -1,0 +1,13 @@
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Kompozit\bin\Debug\netcoreapp3.1\Kompozit.exe
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Kompozit\bin\Debug\netcoreapp3.1\Kompozit.deps.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Kompozit\bin\Debug\netcoreapp3.1\Kompozit.runtimeconfig.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Kompozit\bin\Debug\netcoreapp3.1\Kompozit.runtimeconfig.dev.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Kompozit\bin\Debug\netcoreapp3.1\Kompozit.dll
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Kompozit\bin\Debug\netcoreapp3.1\Kompozit.pdb
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Kompozit\obj\Debug\netcoreapp3.1\Kompozit.csprojAssemblyReference.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Kompozit\obj\Debug\netcoreapp3.1\Kompozit.AssemblyInfoInputs.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Kompozit\obj\Debug\netcoreapp3.1\Kompozit.AssemblyInfo.cs
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Kompozit\obj\Debug\netcoreapp3.1\Kompozit.csproj.CoreCompileInputs.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Kompozit\obj\Debug\netcoreapp3.1\Kompozit.dll
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Kompozit\obj\Debug\netcoreapp3.1\Kompozit.pdb
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Kompozit\obj\Debug\netcoreapp3.1\Kompozit.genruntimeconfig.cache

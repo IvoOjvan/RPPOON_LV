@@ -1,0 +1,13 @@
+E:\RPPOON\Git_LV\RPPOON_LV\LV7\Strategija\bin\Debug\netcoreapp3.1\Strategija.exe
+E:\RPPOON\Git_LV\RPPOON_LV\LV7\Strategija\bin\Debug\netcoreapp3.1\Strategija.deps.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV7\Strategija\bin\Debug\netcoreapp3.1\Strategija.runtimeconfig.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV7\Strategija\bin\Debug\netcoreapp3.1\Strategija.runtimeconfig.dev.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV7\Strategija\bin\Debug\netcoreapp3.1\Strategija.dll
+E:\RPPOON\Git_LV\RPPOON_LV\LV7\Strategija\bin\Debug\netcoreapp3.1\Strategija.pdb
+E:\RPPOON\Git_LV\RPPOON_LV\LV7\Strategija\obj\Debug\netcoreapp3.1\Strategija.csprojAssemblyReference.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV7\Strategija\obj\Debug\netcoreapp3.1\Strategija.AssemblyInfoInputs.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV7\Strategija\obj\Debug\netcoreapp3.1\Strategija.AssemblyInfo.cs
+E:\RPPOON\Git_LV\RPPOON_LV\LV7\Strategija\obj\Debug\netcoreapp3.1\Strategija.csproj.CoreCompileInputs.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV7\Strategija\obj\Debug\netcoreapp3.1\Strategija.dll
+E:\RPPOON\Git_LV\RPPOON_LV\LV7\Strategija\obj\Debug\netcoreapp3.1\Strategija.pdb
+E:\RPPOON\Git_LV\RPPOON_LV\LV7\Strategija\obj\Debug\netcoreapp3.1\Strategija.genruntimeconfig.cache

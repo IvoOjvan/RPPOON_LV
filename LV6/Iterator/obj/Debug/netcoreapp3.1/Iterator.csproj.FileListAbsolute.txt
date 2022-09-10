@@ -1,0 +1,13 @@
+E:\RPPOON\Git_LV\RPPOON_LV\LV6\Iterator\bin\Debug\netcoreapp3.1\Iterator.exe
+E:\RPPOON\Git_LV\RPPOON_LV\LV6\Iterator\bin\Debug\netcoreapp3.1\Iterator.deps.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV6\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV6\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.dev.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV6\Iterator\bin\Debug\netcoreapp3.1\Iterator.dll
+E:\RPPOON\Git_LV\RPPOON_LV\LV6\Iterator\bin\Debug\netcoreapp3.1\Iterator.pdb
+E:\RPPOON\Git_LV\RPPOON_LV\LV6\Iterator\obj\Debug\netcoreapp3.1\Iterator.csprojAssemblyReference.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV6\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfoInputs.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV6\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfo.cs
+E:\RPPOON\Git_LV\RPPOON_LV\LV6\Iterator\obj\Debug\netcoreapp3.1\Iterator.csproj.CoreCompileInputs.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV6\Iterator\obj\Debug\netcoreapp3.1\Iterator.dll
+E:\RPPOON\Git_LV\RPPOON_LV\LV6\Iterator\obj\Debug\netcoreapp3.1\Iterator.pdb
+E:\RPPOON\Git_LV\RPPOON_LV\LV6\Iterator\obj\Debug\netcoreapp3.1\Iterator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Proxy\obj\Debug\netcoreapp3.1\Proxy.csprojAssemblyReference.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+E:\RPPOON\Git_LV\RPPOON_LV\LV5\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache
